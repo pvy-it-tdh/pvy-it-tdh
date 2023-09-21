@@ -1,16 +1,14 @@
 
-# Cậu bạn tên Minh
+# Cậu sinh viên tự động hóa
 
-> *Xin chào, mình là Minh, rất vui vì cậu đã đến đây!*
+> *Xin chào, mình là Phúc Vy, rất vui vì cậu đã đến github của mình!*
 
-## Đôi lời về bản thân
+## Đôi chút về bản thân
 
-Chào cậu, mình là Nguyễn Nhật Minh và đây là Gihub của mình. Mình là một con người hướng nội với nhiều suy tư và âu lo trong đầu. Bên cạnh đó, mình còn là một lập trình viên. Ngôn ngữ mình thích sử dụng và sử dụng nhiều nhất chính là C++. Bên cạnh đó mình còn sử dụng được một số ngôn ngữ khác như Python, JavaScript và Java.
-
-Mình tốt nghiệp cấp $3$ tại ngôi trường Trung học Phổ thông Chuyên Lê Quý Đôn, Khánh Hòa và hiện đang theo học tại Học viện công nghệ Bưu chính Viễn thông Cơ sở Thành phố Hồ Chí Minh chuyên ngành công nghệ thông tin. Ước mơ của mình là trở thành một người có thể tạo ra giá trị từ sản phẩm của mình và khiến cuộc sống của gia đình, bạn bè những người mình thân yêu tốt hơn.
+Mình tên là Lê Thạch Phúc Vy là sinh viên ngành Kỹ Thuật Điều Khiển và Tự Động Hóa của Học viện công nghệ bưu chính viễn thông TPHCM. Mình là một người hướng nội hay suy nghĩ nhiều. Ban đầu mình cũng không thích và cũng không biết gì về lập trình lắm nhưng càng học về lập trình mình càng cảm thấy nó thú vị. Sau khi tốt nghiệp mình có rất nhiều dự định nhưng dự định mà mình muốn làm nhất đó là sẽ làm một sản phẩm gì đó về mảng y tế như ước nguyện của cha mình muốn mình là bác sĩ cứu người nhưng mình lại chọn học về mảng kỹ thuật! Và các dự định tiếp theo là có thể thông qua việc lập trình mang lại các giá trị cho cộng đồng và gia đình của mình.
 
 ## Một số kênh mạng xã hội của mình
 
-- [Nguyễn Nhật Minh | Facebook](https://www.facebook.com/nnminh.haise/).
-- [Nguyễn Nhật Minh | Instagram](https://www.instagram.com/nnminh.haise/).
-- [Cậu bạn tên Minh | Blog](https://nnminh-haise.github.io/).
+- [Lê Thạch Phúc Vy | Facebook](https://www.facebook.com/profile.php?id=100076464913673).
+- [Lê Thạch Phúc Vy | Instagram](https://www.instagram.com/phucvy.vyphuc/).
+- [Cậu sinh viên tự động hóa | Blog](https://github.com/pvy-it-tdh).
