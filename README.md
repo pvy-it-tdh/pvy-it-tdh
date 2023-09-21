@@ -1,91 +1,16 @@
 
-### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
-## 📫 How to reach me: 
+# Cậu bạn tên Minh
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+> *Xin chào, mình là Minh, rất vui vì cậu đã đến đây!*
 
+## Đôi lời về bản thân
 
+Chào cậu, mình là Nguyễn Nhật Minh và đây là Gihub của mình. Mình là một con người hướng nội với nhiều suy tư và âu lo trong đầu. Bên cạnh đó, mình còn là một lập trình viên. Ngôn ngữ mình thích sử dụng và sử dụng nhiều nhất chính là C++. Bên cạnh đó mình còn sử dụng được một số ngôn ngữ khác như Python, JavaScript và Java.
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+Mình tốt nghiệp cấp $3$ tại ngôi trường Trung học Phổ thông Chuyên Lê Quý Đôn, Khánh Hòa và hiện đang theo học tại Học viện công nghệ Bưu chính Viễn thông Cơ sở Thành phố Hồ Chí Minh chuyên ngành công nghệ thông tin. Ước mơ của mình là trở thành một người có thể tạo ra giá trị từ sản phẩm của mình và khiến cuộc sống của gia đình, bạn bè những người mình thân yêu tốt hơn.
 
-<a href="https://github.com/uvipen/QuickDraw/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
-</a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
-</a>
+## Một số kênh mạng xã hội của mình
 
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
-</a>    
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
-</a>
-
-<a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Flappy-bird-deep-Q-learning-pytorch&theme=onedark" />
-</a>    
-<a href="https://github.com/uvipen/Tetris-deep-Q-learning-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Tetris-deep-Q-learning-pytorch&theme=cobalt" />
-</a>
-
-<a href="https://github.com/uvipen/AirGesture/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=AirGesture&theme=synthwave" />
-</a>    
-<a href="https://github.com/uvipen/Yolo-v2-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Yolo-v2-pytorch&theme=highcontrast" />
-</a>
-
-<a href="https://github.com/uvipen/Hierarchical-attention-networks-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Hierarchical-attention-networks-pytorch&theme=dracula" />
-</a>    
-<a href="https://github.com/uvipen/Photomosaic-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Photomosaic-generator&theme=radical" />
-</a>
-
-<a href="https://github.com/uvipen/Street-fighter-A3C-ICM-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Street-fighter-A3C-ICM-pytorch&theme=merko" />
-</a>    
-<a href="https://github.com/uvipen/SSD-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=SSD-pytorch&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/uvipen/Contra-PPO-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Contra-PPO-pytorch&theme=dark" />
-</a>    
-<a href="https://github.com/uvipen/Deeplab-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Deeplab-pytorch&theme=onedark" />
-</a>
-
-<a href="https://github.com/uvipen/Character-level-cnn-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-pytorch&theme=cobalt" />
-</a>    
-<a href="https://github.com/uvipen/Character-level-cnn-tensorflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Character-level-cnn-tensorflow&theme=synthwave" />
-</a>
-
-<a href="https://github.com/uvipen/Very-deep-cnn-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-pytorch&theme=highcontrast" />
-</a>    
-<a href="https://github.com/uvipen/Very-deep-cnn-tensorflow/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Very-deep-cnn-tensorflow&theme=dracula" />
-</a>
+- [Nguyễn Nhật Minh | Facebook](https://www.facebook.com/nnminh.haise/).
+- [Nguyễn Nhật Minh | Instagram](https://www.instagram.com/nnminh.haise/).
+- [Cậu bạn tên Minh | Blog](https://nnminh-haise.github.io/).
