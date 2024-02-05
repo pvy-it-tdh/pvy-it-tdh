@@ -1,5 +1,5 @@
 
-# Cậu sinh viên tự động hóa c
+# Cậu sinh viên tự động hóa 
 
 > *Xin chào, mình là Phúc Vy, rất vui vì cậu đã đến github của mình!*
 
