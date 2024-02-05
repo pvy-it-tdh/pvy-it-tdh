@@ -1,5 +1,5 @@
 
-# Cậu sinh viên tự động hóa
+# <style> Cậu sinh viên tự động hóa color: blue </style>
 
 > *Xin chào, mình là Phúc Vy, rất vui vì cậu đã đến github của mình!*
 
