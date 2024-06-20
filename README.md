@@ -17,4 +17,4 @@ Các dự định tiếp theo là có thể thông qua việc lập trình mang 
 
 - [Lê Thạch Phúc Vy | Facebook](https://www.facebook.com/profile.php?id=100076464913673).
 - [Lê Thạch Phúc Vy | Instagram](https://www.instagram.com/phucvy.vyphuc/).
-- [Cậu sinh viên tự động hóa | Blog](https://github.com/pvy-it-tdh).
+- [Cậu sinh viên tự động hóa | Portfolio](https://portfolio-five-rose-39.vercel.app/?fbclid=IwZXh0bgNhZW0CMTAAAR0W12mJoJ4OIHPXQW8P1l4m1UcL3-_50JFjHc1rm00-l8bJBN1gOiErj_g_aem_ZmFrZWR1bW15MTZieXRlcw).
