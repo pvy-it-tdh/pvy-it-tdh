@@ -12,6 +12,7 @@ Ban đầu mình cũng không thích và cũng không biết gì về lập trì
 Sau khi tốt nghiệp mình có rất nhiều dự định nhưng dự định mà mình muốn làm nhất đó là sẽ làm một sản phẩm gì đó về mảng y tế như ước nguyện của cha mình muốn mình là bác sĩ cứu người nhưng mình lại chọn học về mảng kỹ thuật. Mình hi vọng sản phẩm đó do mình làm ra có thể gián tiếp cứu người cũng xem như đạt được ý nguyện của cha mình.
 
 Các dự định tiếp theo là có thể thông qua việc lập trình mang lại các giá trị cho cộng đồng và gia đình của mình.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pvy-it-tdh)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Một số kênh mạng xã hội của mình
 
