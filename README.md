@@ -13,6 +13,7 @@ Sau khi tốt nghiệp mình có rất nhiều dự định nhưng dự định 
 
 Các dự định tiếp theo là có thể thông qua việc lập trình mang lại các giá trị cho cộng đồng và gia đình của mình.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pvy-it-tdh&hide_progress=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvy-it-tdh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="" /></p>
 
 
 ## Một số kênh mạng xã hội của mình
